@@ -155,9 +155,3 @@ http://localhost:8080/crud/
 ## ⭐ Show Your Support
 
 If you found this project useful, please **⭐ Star the repository** on GitHub — it helps others discover it too!
-
-Would you like me to:
-- ✨ add **GitHub-ready badges** (Java version, license, stars, etc.) and  
-- 📷 create **preview screenshot templates** for your app UI (like homepage, form, and list page)?  
-
-It’ll make your GitHub page stand out professionally.
